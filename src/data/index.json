@@ -1,0 +1,49 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "HTML5, CSS, Bootstrap, JavaScript, React.js, API, Vite.js, material ui, WordPress, Git, Github"
+    },
+ 
+    {
+      "id": "2",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "Adobe Photoshop, Adobe illusturator"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/website.png",
+      "title": "Website fastfood",
+      "description": "To view this website, which is being developed for a fast-food restaurant and allows you to order online without having to go to the restaurant, you need to visit my GitHub profile.",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/my-travel.png",
+      "title": "My Travel",
+      "description": "To view this website, which has been developed for planning your trips from anywhere and allows you to organize your travels without having to visit travel agencies, you need to visit my GitHub profile.",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/pokemon.png",
+      "title": "My Pokemon",
+      "description": "You can view this website to see all the pictures of Pokémon and their unique characteristics. To check out this site, you need to visit my GitHub profile.",
+      "link": "View In Github"
+    },
+    
+    {
+      "id": "4",
+      "src": "./img/my-calculator.png",
+      "title": "My Calculator",
+      "description": "You can perform all mathematical operations (+, -, *, /, %) and other tasks on this website. Visit my GitHub profile to see this site. ",
+      "link": "View In Github"
+    }
+    
+  ]
+}
